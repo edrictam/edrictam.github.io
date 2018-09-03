@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Edric Tam</title>
+    <link>https://edrictam.github.io/home/</link>
+    <description>Recent content in Homes on Edric Tam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://edrictam.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://edrictam.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://edrictam.github.io/home/about/</guid>
+      <description>Biography I am a PhD student in Statistical Science at Duke University.
+I am broadly interested in Bayesian Statistics and Machine Learning, as well as their applications in Computational Neuroscience, Medical Imaging, and Financial Econometrics.
+Prior to Duke, I studied Computer Science at the University of Chicago, performing research at Booth&amp;rsquo;s Department of Statistics and Econometrics under the mentorship of Veronika Rockova.
+Prior to Chicago, I studied Biomedical Engineering at Yale University and did research on Sensory Neuroscience at the laboratory of John Carlson.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://edrictam.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://edrictam.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://edrictam.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://edrictam.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Talks</title>
+      <link>https://edrictam.github.io/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://edrictam.github.io/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://edrictam.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://edrictam.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://edrictam.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://edrictam.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://edrictam.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://edrictam.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://edrictam.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://edrictam.github.io/home/teaching/</guid>
+      <description>I have taught several graduate and undergraduate classes at various universities as a Teaching Assistant.
+ Duke STA 230: Probability (Teaching Assistant) Chicago PPHA 30550: Introduction to Programming for Public Policy (Head Teaching Assistant) Yale BENG 249: Introduction to Biomedical Computation (Teaching Fellow) Hopkins 020.670: Emerging Strategies in Biomedical Research (Teaching Assistant) Hopkins 560.348: Probability and Statistics for Engineers (Teaching Assistant) Hopkins 580.111: Biomedical Modeling and Design (Teaching Assistant/Lab Manager)  </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://edrictam.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://edrictam.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://edrictam.github.io/home/search/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://edrictam.github.io/home/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://edrictam.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://edrictam.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
