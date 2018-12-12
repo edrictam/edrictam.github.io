@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>Facial Recognition through Deep Learning </title>
+      <title>Deep Learning</title>
       <link>https://edrictam.github.io/project/deep-learning-jianqiao/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
@@ -48,6 +48,17 @@ JHUNL wanted a new website and new design. Then Editors-in-Chief Samhita Ilango 
       
       <guid>https://edrictam.github.io/project/chemo/</guid>
       <description>This was a project I worked on at Johns Hopkins with my buddies Martin Kang (Mount Sinai), Pat Bovonratwet (Yale), and Kyle Xiong (Carnegie Mellon), as well as Professor Marc Donohue (Johns Hopkins). We developed a PK-PD model for using Chemotherapy against tumors. We then seeked to optimize the dosing regimen under a simple objective function to minimize both the mass of the tumor and any collateral damage. It was a fun research project incorporating various compartment models as well as some optimal control theory.</description>
+    </item>
+    
+    <item>
+      <title>SpeechBanana</title>
+      <link>https://edrictam.github.io/project/speechbanana/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://edrictam.github.io/project/speechbanana/</guid>
+      <description>This is a project that I have worked on with my research advisor and mentor Tilak Ratnanather and a team of students at the Center for Imaging Science at JHU.
+The description below is taken from the project&amp;rsquo;s official website.
+ Learning to interpret speech provided by a cochlear implant or hearing aid for the first time is an extensive and ongoing process, often taking months to years for people with hearing loss to master complex tasks such as speech comprehension, and partly dependent on how often they can practice using their device.</description>
     </item>
     
   </channel>

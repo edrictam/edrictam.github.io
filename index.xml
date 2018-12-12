@@ -30,12 +30,12 @@
     </item>
     
     <item>
-      <title>Facial Recognition through Deep Learning </title>
+      <title>Deep Learning</title>
       <link>https://edrictam.github.io/project/deep-learning-jianqiao/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://edrictam.github.io/project/deep-learning-jianqiao/</guid>
-      <description>&lt;p&gt;When I was a sophomore in college, I worked on a project with Dr. Jianqiao Feng (now at Google) and Prof. Michael I Miller at JHU to classify human faces in a sizable image dataset using a Convolutional Neural Net. It was before Tensorflow was a thing, and Facebook at that time has just published their DeepFace paper. We used Theano in Python and achieved classification results that were not far away from the state of the art results at that time. Jianqiao did much of the heavy lifting, and I mainly did the computer vision tasks and feature extraction etc. If you are an employer and would like to take a loot at our research report, let me know!&lt;/p&gt;
+      <description>&lt;p&gt;When I was a sophomore in college, I worked on a project with Dr. Jianqiao Feng (now at Google) and Prof. Michael I Miller at JHU to classify human faces in a sizable image dataset using a Convolutional Neural Net. It was before Tensorflow was a thing, and Facebook at that time has just published their DeepFace paper. We used Theano in Python and achieved classification results that were not far away from the state of the art results at that time. Jianqiao did much of the heavy lifting, and I mainly did the computer vision tasks and feature extraction etc. If you are an employer and would like to take a look at our research report, let me know!&lt;/p&gt;
 </description>
     </item>
     
@@ -77,6 +77,27 @@
 We developed a PK-PD model for using Chemotherapy against tumors. We then seeked to optimize the dosing regimen under a simple objective function to minimize both the mass of the tumor and any collateral damage. It was a fun research project incorporating various compartment models as well as some optimal control theory.&lt;/p&gt;
 
 &lt;p&gt;Now that I&amp;rsquo;m a PhD student at Duke, I wonder if any Reinforcement Learning or Bayesian approach would work for this project. More to come soon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SpeechBanana</title>
+      <link>https://edrictam.github.io/project/speechbanana/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://edrictam.github.io/project/speechbanana/</guid>
+      <description>&lt;p&gt;This is a project that I have worked on with my research advisor and mentor Tilak Ratnanather and a team of students at the Center for Imaging Science at JHU.&lt;/p&gt;
+
+&lt;p&gt;The description below is taken from the project&amp;rsquo;s &lt;a href=&#34;http://speechbanana.jhu.edu/&#34; target=&#34;_blank&#34;&gt;official website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Learning to interpret speech provided by a cochlear implant or hearing aid for the first time is an extensive and ongoing process, often taking months to years for people with hearing loss to master complex tasks such as speech comprehension, and partly dependent on how often they can practice using their device. Auditory training (AT) programs, which allow the person with hearing loss to build up the individual listening skills needed to understand spoken communication, are critically beneficial to this learning process.
+Despite the benefits of AT and the ongoing nature of auditory learning, people with hearing loss in many countries face considerable barriers to accessing regular sessions, including limited coverage by insurance and limited availability of clinical training programs. Computerized training applications thus offer a useful supplement to in-person training, filling in the gaps between less frequent trips to the clinic. &amp;gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;During my senior year, I led the programming/software development efforts on this project. After my graduation, the team has continued to update and improve the app. A Korean version is now available!&lt;/p&gt;
+
+&lt;p&gt;You can find the English version of the iOS app &lt;a href=&#34;https://itunes.apple.com/us/app/speech-banana/id944371734?mt=8&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; and the Korean version &lt;a href=&#34;https://itunes.apple.com/us/app/speech-banana-korean/id1234132101?mt=8&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

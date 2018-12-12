@@ -22,5 +22,16 @@
 JHUNL wanted a new website and new design. Then Editors-in-Chief Samhita Ilango and Melanie Levine wanted me to redesign/rewrite the website within a relatively short period of time, so I turned to the good old LAMP stack and Wordpress.</description>
     </item>
     
+    <item>
+      <title>SpeechBanana</title>
+      <link>https://edrictam.github.io/project/speechbanana/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://edrictam.github.io/project/speechbanana/</guid>
+      <description>This is a project that I have worked on with my research advisor and mentor Tilak Ratnanather and a team of students at the Center for Imaging Science at JHU.
+The description below is taken from the project&amp;rsquo;s official website.
+ Learning to interpret speech provided by a cochlear implant or hearing aid for the first time is an extensive and ongoing process, often taking months to years for people with hearing loss to master complex tasks such as speech comprehension, and partly dependent on how often they can practice using their device.</description>
+    </item>
+    
   </channel>
 </rss>
