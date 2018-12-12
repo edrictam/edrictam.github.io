@@ -18,10 +18,10 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://edrictam.github.io/home/about/</guid>
-      <description>Biography I am a PhD student in Statistical Science at Duke University.
-I am broadly interested in Bayesian Statistics and Machine Learning, as well as their applications in Computational Neuroscience, Medical Imaging, and Financial Econometrics.
-Prior to Duke, I studied Computer Science at the University of Chicago, performing research at Booth&amp;rsquo;s Department of Statistics and Econometrics under the mentorship of Veronika Rockova.
-Prior to Chicago, I studied Biomedical Engineering at Yale University and did research on Sensory Neuroscience at the laboratory of John Carlson.</description>
+      <description>Biography I am currently a PhD student in Statistics at Duke University.
+I am broadly interested in Bayesian Methodology and Statistical Machine Learning. I am also interested in their applications in Computational Biology, Medical Imaging, and Financial Econometrics.
+I studied Computer Science at the University of Chicago, performing research at Booth&amp;rsquo;s Department of Econometrics and Statistics under the mentorship of Veronika Rockova.
+Prior to Chicago, I studied Biomedical Engineering at Yale University and researched olfaction/gustation in Drosophila at the laboratory of John Carlson.</description>
     </item>
     
     <item>
@@ -52,29 +52,20 @@ Prior to Chicago, I studied Biomedical Engineering at Yale University and did re
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://edrictam.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://edrictam.github.io/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Posts</title>
-      <link>https://edrictam.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://edrictam.github.io/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Projects</title>
       <link>https://edrictam.github.io/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://edrictam.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://edrictam.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://edrictam.github.io/home/talks/</guid>
       <description></description>
     </item>
     
@@ -86,6 +77,15 @@ Prior to Chicago, I studied Biomedical Engineering at Yale University and did re
       <guid>https://edrictam.github.io/home/teaching/</guid>
       <description>I have taught several graduate and undergraduate classes at various universities as a Teaching Assistant.
  Duke STA 230: Probability (Teaching Assistant) Chicago PPHA 30550: Introduction to Programming for Public Policy (Head Teaching Assistant) Yale BENG 249: Introduction to Biomedical Computation (Teaching Fellow) Hopkins 020.670: Emerging Strategies in Biomedical Research (Teaching Assistant) Hopkins 560.348: Probability and Statistics for Engineers (Teaching Assistant) Hopkins 580.111: Biomedical Modeling and Design (Teaching Assistant/Lab Manager)  </description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://edrictam.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://edrictam.github.io/home/posts/</guid>
+      <description></description>
     </item>
     
     <item>

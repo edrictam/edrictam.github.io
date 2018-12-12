@@ -12,8 +12,8 @@
     
     <url>
     
-      <loc>https://edrictam.github.io/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <loc>https://edrictam.github.io/publication/sucrose/</loc>
+      <lastmod>2017-03-23T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -44,7 +44,7 @@
     
     <url>
     
-      <loc>https://edrictam.github.io/project/deep-learning/</loc>
+      <loc>https://edrictam.github.io/project/deep-learning-jianqiao/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
     
@@ -52,16 +52,57 @@
     
     <url>
     
-      <loc>https://edrictam.github.io/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
+      <loc>https://edrictam.github.io/project/handwriting/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://edrictam.github.io/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
+      <loc>https://edrictam.github.io/project/jhunewsletter/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://edrictam.github.io/project/chemo/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://edrictam.github.io/publication/cortex/</loc>
+      <lastmod>2015-07-02T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://edrictam.github.io/publication/fem/</loc>
+      <lastmod>2013-12-06T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://edrictam.github.io/publication_types/2/</loc>
+      <lastmod>2017-03-23T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://edrictam.github.io/tags/biomedical/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -77,8 +118,8 @@
     
     <url>
     
-      <loc>https://edrictam.github.io/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <loc>https://edrictam.github.io/</loc>
+      <lastmod>2016-04-20T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -86,8 +127,8 @@
     
     <url>
     
-      <loc>https://edrictam.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00-04:00</lastmod>
+      <loc>https://edrictam.github.io/tags/machine-learning/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -105,6 +146,7 @@
     <url>
     
       <loc>https://edrictam.github.io/publication_types/</loc>
+      <lastmod>2017-03-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -113,7 +155,16 @@
     <url>
     
       <loc>https://edrictam.github.io/tags/</loc>
-      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://edrictam.github.io/tags/web-mobile/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
