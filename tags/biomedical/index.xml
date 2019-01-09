@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://edrictam.github.io/tags/biomedical/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Handwriting</title>
       <link>https://edrictam.github.io/project/handwriting/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://edrictam.github.io/project/handwriting/</guid>
       <description>This was a project performed at the Kennedy Krieger Institute at JHU with Ben Dirlikov, Prof. Stewart Mostofsky, Prof. Amy Bastian and one of my faculty advisors Prof. Laurent Younes.
@@ -25,7 +25,7 @@ It is known that children with Autism Spectrum Disorder often suffer from dysgra
     <item>
       <title>OcuRex</title>
       <link>https://edrictam.github.io/project/ocurex/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://edrictam.github.io/project/ocurex/</guid>
       <description>I worked on this project as part of a Johns Hopkins BME Design team when I was a freshman in college.
@@ -36,7 +36,7 @@ A provisional patent for this work has been filed. You can find the patent here.
     <item>
       <title>PKPD and Cancer</title>
       <link>https://edrictam.github.io/project/chemo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://edrictam.github.io/project/chemo/</guid>
       <description>This was a project I worked on at Johns Hopkins with my buddies Martin Kang (Mount Sinai), Pat Bovonratwet (Yale), and Kyle Xiong (Carnegie Mellon), as well as Professor Marc Donohue (Johns Hopkins). We developed a PK-PD model for using Chemotherapy against tumors. We then seeked to optimize the dosing regimen under a simple objective function to minimize both the mass of the tumor and any collateral damage. It was a fun research project incorporating various compartment models as well as some optimal control theory.</description>
