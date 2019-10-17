@@ -18,8 +18,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://edrictam.github.io/project/handwriting/</guid>
-      <description>This was a project performed at the Kennedy Krieger Institute at JHU with Ben Dirlikov, Prof. Stewart Mostofsky, Prof. Amy Bastian and one of my faculty advisors Prof. Laurent Younes.
-It is known that children with Autism Spectrum Disorder often suffer from dysgraphia. We wanted to develop an automated approach for handwriting assessment in these children, which would facilitate research projects further down. So I wrote an iOS app for iPad to collect handwriting data from these children, where the time and pixel coordinates are uploaded in real time to Parse (Firebase wasn&amp;rsquo;t a thing back then&amp;hellip;and Parse wasn&amp;rsquo;t acquired by Facebook yet).</description>
+      <description>Studying Autism Spectrum Disorder through Handwriting Morphometry</description>
     </item>
     
     <item>
@@ -28,9 +27,7 @@ It is known that children with Autism Spectrum Disorder often suffer from dysgra
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://edrictam.github.io/project/ocurex/</guid>
-      <description>I worked on this project as part of a Johns Hopkins BME Design team when I was a freshman in college.
-Our team tried to come up with a novel device to allow for fast and automated fundus imaging in a non-mydriatic manner. The application in mind was to diagnose of glaucoma cheaply and quickly at rural areas in developing countries.
-A provisional patent for this work has been filed. You can find the patent here.</description>
+      <description>Non-mydriatic Fundus Imaging Device for Early Detection of Glaucoma.</description>
     </item>
     
     <item>
@@ -39,7 +36,7 @@ A provisional patent for this work has been filed. You can find the patent here.
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://edrictam.github.io/project/chemo/</guid>
-      <description>This was a project I worked on at Johns Hopkins with my buddies Martin Kang (Mount Sinai), Pat Bovonratwet (Yale), and Kyle Xiong (Carnegie Mellon), as well as Professor Marc Donohue (Johns Hopkins). We developed a PK-PD model for using Chemotherapy against tumors. We then seeked to optimize the dosing regimen under a simple objective function to minimize both the mass of the tumor and any collateral damage. It was a fun research project incorporating various compartment models as well as some optimal control theory.</description>
+      <description>Optimizing Dosing Regimen for Chemotherapy: Pharmacokinetics and Pharmacodynamics.</description>
     </item>
     
   </channel>

@@ -18,8 +18,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://edrictam.github.io/project/jhunewsletter/</guid>
-      <description>&amp;ldquo;The Johns Hopkins News-Letter&amp;rdquo; (sometimes referred to affectionately as &amp;ldquo;The John Hopkin New Letter&amp;rdquo;&amp;hellip;seriously please don&amp;rsquo;t do it) is a student newspaper at JHU. It is first published in 1896 and is one of the nation&amp;rsquo;s oldest college newspapers of its kind.
-JHUNL wanted a new website and new design. Then Editors-in-Chief Samhita Ilango and Melanie Levine wanted me to redesign/rewrite the website within a relatively short period of time, so I turned to the good old LAMP stack and Wordpress.</description>
+      <description>Built Website for One of the Oldest College Student Newspapers in the Nation</description>
     </item>
     
     <item>
@@ -28,9 +27,7 @@ JHUNL wanted a new website and new design. Then Editors-in-Chief Samhita Ilango 
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://edrictam.github.io/project/speechbanana/</guid>
-      <description>This is a project that I have worked on with my research advisor and mentor Tilak Ratnanather and a team of students at the Center for Imaging Science at JHU.
-The description below is taken from the project&amp;rsquo;s official website.
- Learning to interpret speech provided by a cochlear implant or hearing aid for the first time is an extensive and ongoing process, often taking months to years for people with hearing loss to master complex tasks such as speech comprehension, and partly dependent on how often they can practice using their device.</description>
+      <description>An iOS App that trains auditory-skills for the hard-of-hearing.</description>
     </item>
     
   </channel>

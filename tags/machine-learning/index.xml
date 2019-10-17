@@ -18,7 +18,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://edrictam.github.io/project/deep-learning-jianqiao/</guid>
-      <description>When I was a sophomore in college, I worked on a project with Dr. Jianqiao Feng (now at Google) and Prof. Michael I Miller at JHU to classify human faces in a sizable image dataset using a Convolutional Neural Net. It was before Tensorflow was a thing, and Facebook at that time has just published their DeepFace paper. We used Theano in Python and achieved classification results that were not far away from the state of the art results at that time.</description>
+      <description>Facial Recognition through Deep Learning</description>
     </item>
     
     <item>
@@ -27,8 +27,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://edrictam.github.io/project/handwriting/</guid>
-      <description>This was a project performed at the Kennedy Krieger Institute at JHU with Ben Dirlikov, Prof. Stewart Mostofsky, Prof. Amy Bastian and one of my faculty advisors Prof. Laurent Younes.
-It is known that children with Autism Spectrum Disorder often suffer from dysgraphia. We wanted to develop an automated approach for handwriting assessment in these children, which would facilitate research projects further down. So I wrote an iOS app for iPad to collect handwriting data from these children, where the time and pixel coordinates are uploaded in real time to Parse (Firebase wasn&amp;rsquo;t a thing back then&amp;hellip;and Parse wasn&amp;rsquo;t acquired by Facebook yet).</description>
+      <description>Studying Autism Spectrum Disorder through Handwriting Morphometry</description>
     </item>
     
   </channel>

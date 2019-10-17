@@ -1,5 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <loc>https://edrictam.github.io/publication_types/2/</loc>
+      <lastmod>2019-04-04T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://edrictam.github.io/</loc>
+      <lastmod>2019-04-04T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://edrictam.github.io/publication/seer/</loc>
+      <lastmod>2019-04-04T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://edrictam.github.io/publication_types/</loc>
+      <lastmod>2019-04-04T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
     
     <url>
@@ -44,6 +78,15 @@
     
     <url>
     
+      <loc>https://edrictam.github.io/tags/biomedical/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://edrictam.github.io/project/deep-learning-jianqiao/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
@@ -68,6 +111,15 @@
     
     <url>
     
+      <loc>https://edrictam.github.io/tags/machine-learning/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://edrictam.github.io/project/ocurex/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
@@ -84,8 +136,35 @@
     
     <url>
     
+      <loc>https://edrictam.github.io/project/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://edrictam.github.io/project/speechbanana/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://edrictam.github.io/tags/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://edrictam.github.io/tags/web-mobile/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -108,79 +187,7 @@
     
     <url>
     
-      <loc>https://edrictam.github.io/publication_types/2/</loc>
-      <lastmod>2017-03-23T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://edrictam.github.io/tags/biomedical/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://edrictam.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://edrictam.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://edrictam.github.io/tags/machine-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://edrictam.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://edrictam.github.io/publication_types/</loc>
-      <lastmod>2017-03-23T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://edrictam.github.io/tags/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://edrictam.github.io/tags/web-mobile/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     

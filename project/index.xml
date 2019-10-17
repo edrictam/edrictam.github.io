@@ -18,7 +18,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://edrictam.github.io/project/deep-learning-jianqiao/</guid>
-      <description>When I was a sophomore in college, I worked on a project with Dr. Jianqiao Feng (now at Google) and Prof. Michael I Miller at JHU to classify human faces in a sizable image dataset using a Convolutional Neural Net. It was before Tensorflow was a thing, and Facebook at that time has just published their DeepFace paper. We used Theano in Python and achieved classification results that were not far away from the state of the art results at that time.</description>
+      <description>Facial Recognition through Deep Learning</description>
     </item>
     
     <item>
@@ -27,8 +27,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://edrictam.github.io/project/handwriting/</guid>
-      <description>This was a project performed at the Kennedy Krieger Institute at JHU with Ben Dirlikov, Prof. Stewart Mostofsky, Prof. Amy Bastian and one of my faculty advisors Prof. Laurent Younes.
-It is known that children with Autism Spectrum Disorder often suffer from dysgraphia. We wanted to develop an automated approach for handwriting assessment in these children, which would facilitate research projects further down. So I wrote an iOS app for iPad to collect handwriting data from these children, where the time and pixel coordinates are uploaded in real time to Parse (Firebase wasn&amp;rsquo;t a thing back then&amp;hellip;and Parse wasn&amp;rsquo;t acquired by Facebook yet).</description>
+      <description>Studying Autism Spectrum Disorder through Handwriting Morphometry</description>
     </item>
     
     <item>
@@ -37,8 +36,7 @@ It is known that children with Autism Spectrum Disorder often suffer from dysgra
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://edrictam.github.io/project/jhunewsletter/</guid>
-      <description>&amp;ldquo;The Johns Hopkins News-Letter&amp;rdquo; (sometimes referred to affectionately as &amp;ldquo;The John Hopkin New Letter&amp;rdquo;&amp;hellip;seriously please don&amp;rsquo;t do it) is a student newspaper at JHU. It is first published in 1896 and is one of the nation&amp;rsquo;s oldest college newspapers of its kind.
-JHUNL wanted a new website and new design. Then Editors-in-Chief Samhita Ilango and Melanie Levine wanted me to redesign/rewrite the website within a relatively short period of time, so I turned to the good old LAMP stack and Wordpress.</description>
+      <description>Built Website for One of the Oldest College Student Newspapers in the Nation</description>
     </item>
     
     <item>
@@ -47,9 +45,7 @@ JHUNL wanted a new website and new design. Then Editors-in-Chief Samhita Ilango 
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://edrictam.github.io/project/ocurex/</guid>
-      <description>I worked on this project as part of a Johns Hopkins BME Design team when I was a freshman in college.
-Our team tried to come up with a novel device to allow for fast and automated fundus imaging in a non-mydriatic manner. The application in mind was to diagnose of glaucoma cheaply and quickly at rural areas in developing countries.
-A provisional patent for this work has been filed. You can find the patent here.</description>
+      <description>Non-mydriatic Fundus Imaging Device for Early Detection of Glaucoma.</description>
     </item>
     
     <item>
@@ -58,7 +54,7 @@ A provisional patent for this work has been filed. You can find the patent here.
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://edrictam.github.io/project/chemo/</guid>
-      <description>This was a project I worked on at Johns Hopkins with my buddies Martin Kang (Mount Sinai), Pat Bovonratwet (Yale), and Kyle Xiong (Carnegie Mellon), as well as Professor Marc Donohue (Johns Hopkins). We developed a PK-PD model for using Chemotherapy against tumors. We then seeked to optimize the dosing regimen under a simple objective function to minimize both the mass of the tumor and any collateral damage. It was a fun research project incorporating various compartment models as well as some optimal control theory.</description>
+      <description>Optimizing Dosing Regimen for Chemotherapy: Pharmacokinetics and Pharmacodynamics.</description>
     </item>
     
     <item>
@@ -67,9 +63,7 @@ A provisional patent for this work has been filed. You can find the patent here.
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://edrictam.github.io/project/speechbanana/</guid>
-      <description>This is a project that I have worked on with my research advisor and mentor Tilak Ratnanather and a team of students at the Center for Imaging Science at JHU.
-The description below is taken from the project&amp;rsquo;s official website.
- Learning to interpret speech provided by a cochlear implant or hearing aid for the first time is an extensive and ongoing process, often taking months to years for people with hearing loss to master complex tasks such as speech comprehension, and partly dependent on how often they can practice using their device.</description>
+      <description>An iOS App that trains auditory-skills for the hard-of-hearing.</description>
     </item>
     
   </channel>

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jul 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://edrictam.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,8 +18,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://edrictam.github.io/home/about/</guid>
-      <description>Biography I am currently a PhD student in Statistics at Duke University and a graduate student in Applied Mathematics at Columbia University.
-I am broadly interested in Bayesian Methodology and Statistical Machine Learning. I am also interested in their applications in Computational Neuroscience, Medical Imaging, and Financial Econometrics.
+      <description>Biography I am currently a PhD student in Statistics at Duke University, supervised by David Dunson. I am also a graduate student in Applied Mathematics at Columbia University.
+I am broadly interested in Probabilistic/Bayesian Machine Learning. In particular, I am working on incorporating mathematical/physical structure into various machine learning models. I am also interested in applications in Chemistry, Neuroscience, Medical Imaging, and Financial Econometrics.
 Prior to Duke, I studied Computer Science at the University of Chicago, performing research at Booth&amp;rsquo;s Department of Econometrics and Statistics under the mentorship of Veronika Rockova.</description>
     </item>
     
@@ -75,7 +75,7 @@ Prior to Duke, I studied Computer Science at the University of Chicago, performi
       
       <guid>https://edrictam.github.io/home/teaching/</guid>
       <description>I have taught several graduate and undergraduate classes at various universities as a Teaching Assistant.
- Duke STA 101: Data Analysis and Statistical Inference (Head Teaching Assistant) Duke STA 230: Probability (Teaching Assistant) Chicago PPHA 30550: Introduction to Programming for Public Policy (Head Teaching Assistant) Yale BENG 249: Introduction to Biomedical Computation (Teaching Fellow) Hopkins 020.670: Emerging Strategies in Biomedical Research (Teaching Assistant) Hopkins 560.348: Probability and Statistics for Engineers (Teaching Assistant) Hopkins 580.</description>
+ Duke Global Health Institute: Teaching Assistant for Sumedha Ariely Duke STA 101: Data Analysis and Statistical Inference (Head Teaching Assistant) Duke STA 230: Probability (Teaching Assistant) Chicago PPHA 30550: Introduction to Programming for Public Policy (Head Teaching Assistant) Yale BENG 249: Introduction to Biomedical Computation (Teaching Fellow) Hopkins 020.670: Emerging Strategies in Biomedical Research (Teaching Assistant) Hopkins 560.</description>
     </item>
     
     <item>
