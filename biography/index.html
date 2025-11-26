@@ -10,7 +10,7 @@
 <meta name="description" content="Biography of Edric (Ed) Tam, PhD - Postdoctoral Fellow at Stanford University">
 <meta name="author" content="Edric (Ed) Tam">
 <link rel="canonical" href="https://edrictam.github.io/biography/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.1f10843bc1e5f0b0044b6eebf01ae7b1a58ee74fd2e213d1b4bb34e679e5bec9.css" integrity="sha256-HxCEO8Hl8LAES27r8BrnsaWO50/S4hPRtLs05nnlvsk=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.251a1709a808cfc5b99d57e9c6586c56e30d6bee07d18211b2cd05ea9d1a4b45.css" integrity="sha256-JRoXCagIz8W5nVfpxlhsVuMNa&#43;4H0YIRss0F6p0aS0U=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://edrictam.github.io/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://edrictam.github.io/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://edrictam.github.io/favicon-32x32.png">
@@ -138,27 +138,27 @@
         </div>
         <ul id="menu">
             <li>
-                <a href="https://edrictam.github.io/about/" title="About">
+                <a href="https://edrictam.github.io/about/">
                     <span>About</span>
                 </a>
             </li>
             <li>
-                <a href="https://edrictam.github.io/papers/" title="Papers">
+                <a href="https://edrictam.github.io/papers/">
                     <span>Papers</span>
                 </a>
             </li>
             <li>
-                <a href="https://edrictam.github.io/experiences/" title="Experiences">
+                <a href="https://edrictam.github.io/experiences/">
                     <span>Experiences</span>
                 </a>
             </li>
             <li>
-                <a href="https://edrictam.github.io/teaching/" title="Teaching">
+                <a href="https://edrictam.github.io/teaching/">
                     <span>Teaching</span>
                 </a>
             </li>
             <li>
-                <a href="https://edrictam.github.io/edric_tam_cv.pdf" title="CV">
+                <a href="https://edrictam.github.io/edric_tam_cv.pdf">
                     <span>CV</span>
                 </a>
             </li>
@@ -251,6 +251,20 @@
         menu.onscroll = function () {
             localStorage.setItem("menu-scroll-position", menu.scrollLeft);
         }
+        
+        
+        menu.querySelectorAll('a').forEach(link => {
+            
+            link.removeAttribute('title');
+            
+            
+            link.addEventListener('mousedown', function(e) {
+                if (e.button === 0 && !this.href.match(/^#/)) { 
+                    e.preventDefault();
+                    window.location.href = this.href;
+                }
+            }, { passive: false });
+        });
     }
 
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
