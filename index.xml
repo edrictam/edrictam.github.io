@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Edric (Ed) Tam</title>
-    <link>https://edrictam.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Edric (Ed) Tam</description>
     <generator>Hugo -- 0.166.0</generator>
     <language>en</language>
-    <atom:link href="https://edrictam.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://edrictam.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://edrictam.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>About Edric (Ed) Tam</description>
     </item>
     <item>
       <title>Biography</title>
-      <link>https://edrictam.github.io/biography/</link>
+      <link>http://localhost:1313/biography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://edrictam.github.io/biography/</guid>
+      <guid>http://localhost:1313/biography/</guid>
       <description>Biography of Edric (Ed) Tam, PhD - Postdoctoral Fellow at Stanford University</description>
     </item>
     <item>
       <title>Education and Professional Experiences</title>
-      <link>https://edrictam.github.io/experiences/</link>
+      <link>http://localhost:1313/experiences/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://edrictam.github.io/experiences/</guid>
+      <guid>http://localhost:1313/experiences/</guid>
       <description>Experiences of Edric (Ed) Tam, PhD - Postdoctoral Fellow at Stanford University</description>
     </item>
     <item>
       <title>Papers</title>
-      <link>https://edrictam.github.io/papers/</link>
+      <link>http://localhost:1313/papers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://edrictam.github.io/papers/</guid>
+      <guid>http://localhost:1313/papers/</guid>
       <description>Preprints and articles by Edric (Ed) Tam.</description>
     </item>
     <item>
       <title>Teaching</title>
-      <link>https://edrictam.github.io/teaching/</link>
+      <link>http://localhost:1313/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://edrictam.github.io/teaching/</guid>
+      <guid>http://localhost:1313/teaching/</guid>
       <description>Teaching philosophy and experiences of Edric (Ed) Tam</description>
     </item>
   </channel>
